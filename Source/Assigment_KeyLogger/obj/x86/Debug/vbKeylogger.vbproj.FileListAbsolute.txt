@@ -1,0 +1,11 @@
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\bin\Debug\svchost.exe
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\bin\Debug\svchost.pdb
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\bin\Debug\svchost.xml
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\obj\x86\Debug\vbKeylogger.vbproj.ResolveComReference.cache
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\obj\x86\Debug\vbKeylogger.frmKeylogger.resources
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\obj\x86\Debug\vbKeylogger.Resources.resources
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\obj\x86\Debug\vbKeylogger.vbproj.GenerateResource.Cache
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\obj\x86\Debug\svchost.exe
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\obj\x86\Debug\svchost.xml
+C:\Users\Wahlah\Downloads\Video\vb-keylogger-master\vbKeylogger\obj\x86\Debug\svchost.pdb
